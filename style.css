@@ -1,0 +1,35 @@
+body {
+    color: white;
+    background: #c0d3ff;
+  }
+  span {
+    font-size: 30px;
+  }
+  #Camera , #Resultado {
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px; 
+  }
+  .Emocao {
+    font-size: 40px;
+    color: black;
+  }
+  .emoji {
+    font-size:48px;
+  }
+
+  .heading {
+    font-size: 18px;
+    background-color: aquamarine;
+    border-radius: 10px;
+    letter-spacing: 10px;
+    padding: 10px;
+  }
+
+  label{
+    font-size: 14px;
+    background-color:rgb(126, 112, 219);
+    border-radius: 8px;
+    padding: 6px;
+  }
+  
